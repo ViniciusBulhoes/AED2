@@ -1,2 +1,2 @@
 # AED2
- Repositório para a componente curricular "Algoritmos e Estruturas de Dados II"
+ Repositório relativo a componente curricular "Algoritmos e Estruturas de Dados II"
