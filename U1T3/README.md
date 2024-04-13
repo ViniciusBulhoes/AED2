@@ -1,3 +1,4 @@
 # U1T3
-
+<p>Both notebooks to the challenges with the solution are in this repository. In the first challenge the tree was traversed using the rule of BST of greater and lesser values while searching for the value that is closest to the target. Its time complexity is the height of the tree and the space compelxity is O(1).</p>
+<p>The second challenge uses a reverse in-order traversal to find the Kth largest value, each iteration of the code decreases the value of K to know when its reached the Kth value. Its time complexity is in average K+h, where h is the height of the tree and the space complexity if O(h) because you need to create a list with the right nodes to return.</p>
 <a href="https://www.loom.com/share/88a8b50b6e3147b88677c858699ab0f4?sid=6bd7e9de-b344-4a07-83f2-4e5720486dfc">Presentation Video Link</a>
