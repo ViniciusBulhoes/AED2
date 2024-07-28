@@ -17,5 +17,5 @@
 
 ![sdg 15](https://github.com/ViniciusBulhoes/AED2/blob/main/U2T1/Requisito_02/assets/sdg15.png)
 <p align=justify>
-  Por fim, o objetivo 15 sobre vida na terra apresenta um gráfico semelhante ao do objetivo 13 no sentido que há vários pontos ao longo do eixo y, ou seja, o autor em destaque não possui muitos vizinhos mas seus vizinhos sim. Mas ele também tem uma formação no sentido contrário também, uma projeção que se alonga paralela ao eixo x mas não varia muito no eixo y.
+  Por fim, o objetivo 15 sobre vida na terra apresenta um gráfico semelhante ao do objetivo 13 no sentido que há vários pontos ao longo do eixo y, ou seja, o autor em destaque não possui muitos vizinhos mas seus vizinhos sim. Mas ele também tem uma formação no sentido contrário também, uma projeção que se alonga paralela ao eixo x mas não varia muito no eixo y similar ao que acontece no gráfico do objetivo 5.
 </p>
