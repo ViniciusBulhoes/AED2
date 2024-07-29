@@ -1,5 +1,5 @@
 ![req 3](https://github.com/ViniciusBulhoes/AED2/blob/main/U2T1/Requisito_03/assets/requisito3.png)
 <p align=justify>
   A tabela a seguir contem algumas informações sobre os grafos estudados. Primeiro há a quantidade de vértices e arestas, o grafo do objetivo 5 é o que tem menos pois é também o com a menor base de dados dos quatro. Em seguida tem o coeficiente de assortatividade, todos exceto o grafo do objetivo 15 estão com o coeficiente próximo de um, o que significa que seus nós estão mais unidos a nós similares. <br>
-  
+  A próxima métrica é a quantidade de componentes conectados, um componente conectado é o conjunto de todos os nós que podem ser alcançados percorrendo as arestas, então o grafo do objetivo 5 ter 81 componentes conectados significa que há 81 grupos de nós que estão isolados de quaisquer outros nós. Foi extraído também o tamanho do maior componente conectado. Por fim, o coeficiente de clustering diz que quanto mais perto do valor 1 mais os nós do grafo tendem a se agruparem.
 </p>
