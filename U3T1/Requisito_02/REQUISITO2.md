@@ -1,7 +1,7 @@
 <h1>Requisito 2</h1>
 
 <p align=justify>
-O requisito 2 pede para mostrar algumas métricas dos gráfos. A grosso modo todas as seguintes métricas medem o quão central é um nó de um grafo de uma maneira diferente.
+O requisito 2 pede para mostrar algumas métricas dos gráfos. A grosso modo todas as seguintes métricas medem o quão central é um nó de um grafo de uma maneira diferente. Vale ressaltar que para as seguintes imagens quanto mais claro a cor do nó menor é o seu valor da métrica e contrariamente quanto mais escuro maior o valor.
 </p>
 
 <h3>lotr betweenness centrality</h3>
