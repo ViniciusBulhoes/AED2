@@ -34,15 +34,15 @@
 
 <h3>lotr eigenvector centrality</h3>
 
-![lotr eigenvector centrality](https://github.com/ViniciusBulhoes/AED2/blob/main/U3T1/Requisito_02/img/lotr_egenvector_centrality.png)
+![lotr eigenvector centrality](https://github.com/ViniciusBulhoes/AED2/blob/main/U3T1/Requisito_02/img/lotr_eigenvector_centrality.png)
 
 <h3>asoiaf eigenvector centrality</h3>
 
-![asoiaf eigenvector centrality](https://github.com/ViniciusBulhoes/AED2/blob/main/U3T1/Requisito_02/img/asoiaf_egenvector_centrality.png)
+![asoiaf eigenvector centrality](https://github.com/ViniciusBulhoes/AED2/blob/main/U3T1/Requisito_02/img/asoiaf_eigenvector_centrality.png)
 
 <h3>one piece eigenvector centrality</h3>
 
-![one piece eigenvector centrality](https://github.com/ViniciusBulhoes/AED2/blob/main/U3T1/Requisito_02/img/one_piece_egenvector_centrality.png)
+![one piece eigenvector centrality](https://github.com/ViniciusBulhoes/AED2/blob/main/U3T1/Requisito_02/img/one_piece_eigenvector_centrality.png)
 
 <p align=justify>
 
