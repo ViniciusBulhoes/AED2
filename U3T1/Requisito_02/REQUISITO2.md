@@ -46,7 +46,7 @@ A segunda métrica é a closeness centrality, ela mede a soma do menor tamanho d
 
 <h3>one piece eigenvector centrality</h3>
 
-![one piece eigenvector centrality](https://github.com/ViniciusBulhoes/AED2/blob/main/U3T1/Requisito_02/img/one_piece_eigenvector_centrality.png)
+![one piece eigenvector centrality](https://github.com/ViniciusBulhoes/AED2/blob/main/U3T1/Requisito_02/img/one_piece_eingenvector_centrality.png)
 
 <p align=justify>
 O eigenvector centrality, ou centralidade do autovetor diz o quão central é um nó medindo se ele está ligado a nós importantes. O calculo dessa métrica é um pouco mais complicada que as demais e um dos elementos necessários nesse cálculo é a matriz de adjacência do grafo.
