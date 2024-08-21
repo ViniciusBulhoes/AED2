@@ -34,7 +34,7 @@ A função de densidade de probabilidade descreve a chance de uma variável alea
 
 <h3>One Piece</h3>
 
-![op cdf](https://github.com/ViniciusBulhoes/AED2/blob/main/U3T1/Requisito_03/img/asoaif_cumulative_density_function.png)
+![op cdf](https://github.com/ViniciusBulhoes/AED2/blob/main/U3T1/Requisito_03/img/one_piece_cumulative_density_function.png)
 
 <p align=justify>
 Já a função de distribuição acumulativa é a chance completa da variável cair numa faixa, ou seja, no fim a soma das probabilidades devem dar 100%, como nos graus de enrada a maioria está para o grau 2 a curva da função sobe drasticamente nesse ponto, já para os pontos seguintes como a probabilidade não aumenta quase nada então a curva da função tem um comportamento similar a uma constante.
